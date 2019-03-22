@@ -1,3 +1,4 @@
-def roll(number)
+def roll
+  random.new
   
 end
