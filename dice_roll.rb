@@ -1,4 +1,3 @@
 def roll
-  random.new
-  
+  random.new.rand(1..6)
 end
