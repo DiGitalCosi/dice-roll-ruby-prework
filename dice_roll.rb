@@ -1,2 +1,3 @@
-def roll(Integer)
+def roll(number)
+  
 end
